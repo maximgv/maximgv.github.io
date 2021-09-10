@@ -1,0 +1,13 @@
+print("type in your first name")
+a = str(input())
+print("type in your last name")
+b = str(input())
+print("your name is", a,b)
+-----------------------------------------------------------------------------
+print("type in your password")
+a = str(input())
+if len(a) > 6:
+    print("password is valid")
+else:
+    print("password is invalid")
+-----------------------------------------------------------------------------
