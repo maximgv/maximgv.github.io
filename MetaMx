@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-UK">
+<body style="background-color:red">
+<title>MetaMx</title>
+<h1 style="color:hsla(118, 100%, 50%, 0.486)" style="font-size:20px" style="text-align:center;">
+<b>Welcome to MetaMx</b>
+</h1>
 
+<h2 style="color:blue">
+<sub>MXMM</sub>
+</h2>
+<img src="https://cdn.dribbble.com/users/387850/screenshots/2650107/media/78b5e147af9c07f3e18d211abd7eec3b.png?compress=1&resize=800x600" width = "525" height = "293">
+
+<p1 title="Why MetaMx?" style="color:white">
+<br>
+<mark>Why?</mark>
+Cats are feline and quite similar to tigers and lions
+<br>
+They are very slick and can figure out a way to do a lot of things
+</p1>
+<hr>
+<p2 style="font-size:10px" style="color:yellow">
+<pre>
+Cats are also capable of jumping pretty high and reacting very quickly
+</pre>
+</p2>
+
+<hr>
+<p3>
+<a href="https://www.gumtree.com/cats/london">Buy a cat here</a>
+</p3>
+
+</body>
+</html>
